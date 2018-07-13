@@ -1310,7 +1310,7 @@
 }
 #u3520 {
   position:absolute;
-  left:509px;
+  left:499px;
   top:155px;
   width:128px;
   height:32px;
@@ -1350,8 +1350,8 @@
 }
 #u3521 {
   position:absolute;
-  left:679px;
-  top:153px;
+  left:818px;
+  top:155px;
   width:120px;
   height:35px;
 }
@@ -2421,8 +2421,8 @@
 }
 #u3620 {
   position:absolute;
-  left:824px;
-  top:154px;
+  left:970px;
+  top:156px;
   width:120px;
   height:35px;
 }
@@ -2813,4 +2813,27 @@
   top:10px;
   width:296px;
   word-wrap:break-word;
+}
+#u3650 {
+  position:absolute;
+  left:658px;
+  top:155px;
+  width:128px;
+  height:32px;
+}
+#u3650_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:32px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u3650_input:disabled {
+  color:grayText;
 }
