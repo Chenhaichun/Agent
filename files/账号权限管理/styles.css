@@ -4023,35 +4023,26 @@
   width:126px;
   word-wrap:break-word;
 }
-#u7821_div {
+#u7821_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:130px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  width:32px;
+  height:32px;
 }
 #u7821 {
   position:absolute;
-  left:602px;
-  top:900px;
-  width:130px;
-  height:40px;
+  left:1335px;
+  top:342px;
+  width:32px;
+  height:32px;
 }
 #u7822 {
   position:absolute;
   left:2px;
-  top:12px;
-  width:126px;
+  top:8px;
+  width:28px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u7823_img {
@@ -4063,7 +4054,7 @@
 }
 #u7823 {
   position:absolute;
-  left:1335px;
+  left:1397px;
   top:342px;
   width:32px;
   height:32px;
@@ -4085,7 +4076,7 @@
 }
 #u7825 {
   position:absolute;
-  left:1397px;
+  left:1458px;
   top:342px;
   width:32px;
   height:32px;
@@ -4102,32 +4093,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:32px;
-  height:32px;
-}
-#u7827 {
-  position:absolute;
-  left:1458px;
-  top:342px;
-  width:32px;
-  height:32px;
-}
-#u7828 {
-  position:absolute;
-  left:2px;
-  top:8px;
-  width:28px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u7829_img {
-  position:absolute;
-  left:0px;
-  top:0px;
   width:515px;
   height:2px;
 }
-#u7829 {
+#u7827 {
   position:absolute;
   left:1382px;
   top:472px;
@@ -4135,7 +4104,7 @@
   height:1px;
   color:#169BD5;
 }
-#u7830 {
+#u7828 {
   position:absolute;
   left:2px;
   top:-8px;
@@ -4143,14 +4112,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u7831_img {
+#u7829_img {
   position:absolute;
   left:0px;
   top:0px;
   width:508px;
   height:69px;
 }
-#u7831 {
+#u7829 {
   position:absolute;
   left:1896px;
   top:437px;
@@ -4158,7 +4127,7 @@
   height:69px;
   text-align:left;
 }
-#u7832 {
+#u7830 {
   position:absolute;
   left:2px;
   top:26px;
